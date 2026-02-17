@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zaid</h1>
-<h3 align="center">Cybersecurity & IT Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+IT+Enthusiast;Future+Security+Engineer;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
 🌍 Based in Jordan
@@ -17,22 +20,32 @@
 
 ## 🛠️ Skills & Technologies
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <b>CSS</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <b>Python</b>
+
 </p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/> Windows &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> <b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/> <b>Windows</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <b>GitHub</b>
+
 </p>
 
-<p>
-🔐 Cybersecurity &nbsp;&nbsp; 🌐 Networking (TCP/IP, OSI Model)
+<p align="center">
+🔐 <b>Cybersecurity</b> &nbsp;&nbsp;&nbsp;&nbsp; 🌐 <b>Networking (TCP/IP, OSI Model)</b>
 </p>
 
 ---
@@ -46,8 +59,10 @@
 ---
 
 ## 📫 Contact Me
-- 🧑‍💻 GitHub: https://github.com/zaid-athamnah  
-- 📧 Email: athamnahzaid@gmail.com  
+<p align="center">
+🧑‍💻 GitHub: <a href="https://github.com/zaid-athamnah">https://github.com/zaid-athamnah</a><br>
+📧 Email: athamnahzaid@gmail.com
+</p>
 
 ---
 
