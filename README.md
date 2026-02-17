@@ -61,8 +61,8 @@
 ## 📫 Contact Me
 <p align="center">
 🧑‍💻 GitHub: <a href="https://github.com/zaid-athamnah">https://github.com/zaid-athamnah</a><br>
-📧 Email: athamnahzaid@gmail.com
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/zaid-athamnah/">Visit My LinkedIn</a><br>
+📧 Email: athamnahzaid@gmail.com<br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/zaid-athamnah/">Visit My LinkedIn</a>
 </p>
 
 ---
