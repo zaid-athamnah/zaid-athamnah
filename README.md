@@ -18,17 +18,17 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-★★★★☆-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-★★★★☆-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/C++-★★★☆☆-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Python-★★★☆☆-yellow?style=for-the-badge&logo=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-★★★★☆-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-★★★☆☆-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Cybersecurity-★★★☆☆-red?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Networking-★★★☆☆-green?style=for-the-badge&logo=cisco" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
 </p>
 
 ---
@@ -44,18 +44,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaid-athamnah&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-athamnah&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Contact Me
-- 🧑‍💻 GitHub: https://github.com/yourusername  
-- 📧 Email: yourmail@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/zaid-athamnah  
+- 📧 Email: athamnahzaid@gmail.com  
 
 ---
 
