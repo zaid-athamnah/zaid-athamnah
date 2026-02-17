@@ -17,16 +17,23 @@
 
 ## 🛠️ Skills & Technologies
 
-- 🌐 **HTML** – Web Structure  
-- 🎨 **CSS** – Web Styling  
-- 💻 **C++** – Programming Language  
-- 🐍 **Python** – Programming Language  
-- 🐧 **Linux** – Operating System  
-- 🪟 **Windows** – Operating System  
-- 🔧 **Git** – Version Control  
-- 🧑‍💻 **GitHub** – Code Hosting  
-- 🔐 **Cybersecurity** – Security Fundamentals  
-- 🌐 **Networking** – TCP/IP & OSI Model  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/> Windows &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub
+</p>
+
+<p>
+🔐 Cybersecurity &nbsp;&nbsp; 🌐 Networking (TCP/IP, OSI Model)
+</p>
 
 ---
 
@@ -35,14 +42,6 @@
 - 🌍 Web Security  
 - 🐍 Python for Security  
 - 🎯 TryHackMe & Hack The Box  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaid-athamnah&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-athamnah&layout=compact&theme=radical)
 
 ---
 
